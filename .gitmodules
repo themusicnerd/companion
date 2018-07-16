@@ -85,3 +85,6 @@
 [submodule "lib/module/horae"]
 	path = lib/module/horae
 	url = https://github.com/bitfocus/companion-module-horae.git
+[submodule "lib/module/vyvphoton"]
+	path = lib/module/vyvphoton
+	url = https://github.com/bitfocus/companion-module-vyvphoton.git

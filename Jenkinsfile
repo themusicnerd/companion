@@ -1,7 +1,7 @@
 pipeline {
   agent any
  
-  tools {nodejs "node"}
+  tools {nodejs "node 8.11.3"}
  
   stages {
     stage('Yarn update') {
